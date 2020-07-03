@@ -1,0 +1,56 @@
+*{margin: 0;}
+html, body {width: 100%; height: 1080px}
+
+.logo_form{height: 80px;background-color: #ff0000;text-align: center;}
+.logotext_form{color: #ffea00;font-family: "Pokemon solid",sans-serif;font-size:1.5em;font-weight: 100;letter-spacing: 0em;position: relative;top: 3px}
+
+.logotext_form a:link{text-decoration: none;color: #ffea00;}
+.logotext_form a:visited{text-decoration: none;color: #ffea00;}
+.logotext_form a:active{color: #ffea00;}
+.logotext_form a:hover{color: #ffea00;}
+
+
+.menu_form{height: 40px;background-color: #ffffff;text-align: center;}
+.menutext_form{display: inline-block;margin: 2px 70px 70px 20px;font-size: 1em;color: #000000;font-family: arial;font-size: 1.1em;font-weight: 400;}
+
+.menutext_form a:link{text-decoration: none;color: black;}
+.menutext_form a:visited{color: black;}
+.menutext_form a:active{color: black;}
+.menutext_form a:hover{color: #ffa426;}
+
+.Section_form{height:960px;background-color: #ffffff;text-align: center;}
+.img_form{display: inline-block;margin: 0px 0px 0px 0px;}
+
+
+#pr{height: 100%;width: 33%;background-size: cover;text-align: center;}
+
+.p1{background-image: url(../img/bg_01.png);height:100%;width:33.333333%}
+.p2{background-image: url(../img/bg_02.png);height:100%;width:33.333333%}
+.p3{background-image: url(../img/bg_03.png);height:100%;width:33.333333%}
+
+.dot{width :auto;; height: auto;;background-color: #ffffff ;float: left;margin:0 0}
+.dot_wrapper{width:100%;height:908px;display: flex}
+
+.posi{text-align: center;height: 100%;}
+.posi :hover{transform: scale(0.8);transition: 1s}
+
+.footer_forms{height: 80px;background-color: #ffea00;}
+.footertext_form{color: #000000;font-family: "조선굵은고딕",sans-serif;font-size:1em;font-weight: 100;text-align: center;position: relative;top:40%;}
+
+#pr2{height: 908px;width: 100%;background-size: cover;}
+
+.posi2{text-align: center;margin-top: 0px;height: 100%;height:auto;width:100%;}
+
+.section_li_form1{}
+
+  .wrap{width: 100%; height: 100%; display: flex;}
+
+  .tri1{height: 100%; width: 39.791666%;text-align: center;}
+  .tri2{height: 100%; width: 60.208333%;text-align: center;}
+
+  .content_li_form{margin-top: 8%; margin-bottom: 1.669758%; margin-left:0%;margin-right:0%;}
+
+  .content_li_form a:link{text-decoration: none;color: black;}
+
+  .tri01{height: 100%; width: 35.277777%;text-align: center;}
+  .tri02{height: 100%; width: 64.652777%;text-align: center;}
